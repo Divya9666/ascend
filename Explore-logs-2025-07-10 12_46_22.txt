@@ -1,6 +1,6 @@
 Common labels: {"level":"info","namespace":"ascend","stream":"stderr"}
 Line limit: "1000 (181 returned)"
-Total bytes processed: "45.5  MB"
+Total bytes processed: "45.5  MB" divya 
 
 
 2025-07-10 12:40:27.776	INFO:azure.core.pipeline.policies.http_logging_policy:Response status: 404
